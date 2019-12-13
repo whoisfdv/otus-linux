@@ -5,9 +5,17 @@
 ## Homework 1: С чего начинается Linux
 
 dir: ./hw-01
+
 Desc: Делаем собственную сборку ядра.
 
 ## Homework 2: Дисковая подсистема
 
 dir: ./hw-02
+
 Desc: Работа с mdadm.
+
+## Homework 3: Файловые системы и LVM
+
+dir: ./hw-03
+
+Desc: Работа с LVM.
